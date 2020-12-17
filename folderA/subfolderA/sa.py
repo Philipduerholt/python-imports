@@ -29,6 +29,8 @@ print(
 
 try:
     import sa_sibling
+    print("IMPORTED sa_sibling")
 except ModuleNotFoundError as error:
     print("ModuleNotFoundError:", error)
 import start_sibling
+print("IMPORTED start_sibling")
