@@ -22,3 +22,6 @@ python start.py
 ```
 
 from this project's root folder and see for yourself.
+
+
+Read more here https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html#:~:text=root%20test%2F%20folder.-,What%20is%20an%20import%20%3F,made%20available%20to%20the%20importer.
